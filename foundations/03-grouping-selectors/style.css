@@ -1,0 +1,32 @@
+.first {
+    background-color: black;
+    color: white;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.second {
+    background-color: yellow;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+/* Another way to write this in a more concise manner
+
+.first, 
+.second {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
+
+*/

@@ -1,0 +1,23 @@
+/*
+
+First declare two class combinator 
+
+*/
+
+.container > .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Combine ID and class selectors alternatively 
+
+.container > p {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
